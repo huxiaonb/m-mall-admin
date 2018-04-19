@@ -49,12 +49,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skyvow/m-mall-admin.git"
+    "url": ""
   },
-  "author": "skyvow",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skyvow/m-mall-admin/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/skyvow/m-mall-admin#readme"
+  "homepage": ""
 }

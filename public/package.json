@@ -58,6 +58,6 @@
     "build": "cross-env NODE_ENV=production webpack --progress --profile --colors",
     "start": "npm run server"
   },
-  "author": "skyvow",
+  "author": "",
   "license": "MIT"
 }
